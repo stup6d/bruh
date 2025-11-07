@@ -1,0 +1,23 @@
+/* style.css */
+
+body {
+    /* *** ЭТО КЛЮЧЕВАЯ ЧАСТЬ *** */
+    background-color: navy; /* Выберите нужный оттенок синего */
+    color: white; /* Цвет текста, чтобы он не сливался с фоном */
+
+    /* Остальные стили для центрирования и шрифтов */
+    font-family: sans-serif; 
+    text-align: center; 
+    padding: 50px;
+}
+
+.social a {
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-size: 1.2em;
+    color: lightblue; /* Цвет ссылок */
+}
+
+h1, h2 {
+    color: lightgray;
+}
